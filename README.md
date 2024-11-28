@@ -1,12 +1,10 @@
-Claro! Aqui está uma descrição detalhada de um site para uma concessionária chamada "Meu Carango", desenvolvido com Java, JavaScript, CSS, HTML e um banco de dados:
 
----
 
-### Descrição do Site "Meu Carango"
+Descrição do Site "Meu Carango"
 
-**Nome do Projeto:** Meu Carango
 
-**Tecnologias Utilizadas:**
+
+Tecnologias Utilizadas:
 - **Backend:** Java (Spring Boot)
 - **Frontend:** HTML, CSS, JavaScript (React.js)
 - **Banco de Dados:** MySQL
@@ -59,6 +57,6 @@ Claro! Aqui está uma descrição detalhada de um site para uma concessionária 
 - **Otimização de Imagens:** Compressão de imagens para carregamento rápido.
 - **Cache:** Uso de cache para melhorar a performance do site.
 
----
+
 
 Este site oferece uma experiência completa e intuitiva tanto para os clientes quanto para os administradores da concessionária "Meu Carango", garantindo facilidade de uso, segurança e um design atraente. Se precisar de mais detalhes ou tiver alguma dúvida, estou aqui para ajudar!
